@@ -7,7 +7,7 @@ ou
 python3 tradutor.py {arquivo.mongus}
 
 Equivalências emoji-python
-'👋':'Hello', 
+'👋':'Hello', <br>
 '🌎':'World',
 '🖨':'print',
 '🌜':'(',
