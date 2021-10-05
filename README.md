@@ -62,3 +62,6 @@ Equivalências emoji-python:<br>
 '👈':']',<br>
 '🤜':'{',<br>
 '🤛':'}',<br>
+'👆':'if',<br>
+'🖕':'elif',<br>
+'👇':'else'<br>
