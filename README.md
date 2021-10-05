@@ -8,7 +8,6 @@ python3 tradutor.py {arquivo.mongus}
 
 Equivalências emoji-python:<br>
 '👋':'Hello',<br>
-''👋':'Hello',<br>
 '🌎':'World',<br>
 '🖨':'print',<br>
 '🌜':'(',<br>
